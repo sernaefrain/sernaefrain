@@ -51,4 +51,4 @@ I bridge business strategy and technical execution, transforming complex data in
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/efrain-serna-930110105/) | [Email](mailto:sernaefrain@gmail.com) | [Resume]()
+[LinkedIn](https://www.linkedin.com/in/efrain-serna-930110105/) | [Email - sernaefrain@gmail.com](mailto:sernaefrain@gmail.com) | [Resume]()

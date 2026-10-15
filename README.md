@@ -9,17 +9,14 @@ I bridge business strategy and technical execution, transforming complex data in
 
 ## Technical Skills
 
-**Data & Analytics:** SQL, MySQL, Python, Excel
-
-**Business Intelligence:** Power BI, Tableau
-
-**Automation:** Python, Power Automate
-
+**Data & Analytics:** SQL, MySQL, Python, Excel <br> 
+**Business Intelligence:** Power BI, Tableau <br> 
+**Automation:** Python, Power Automate <br> 
 **Business:** Financial Analysis, Investment Reporting, KPI Development, Process Improvement
 
 ## Featured Projects
 
-| Project | Dashboard Preview |
+| Projects | Dashboard Preview |
 |---|---|
 | **[Parking Revenue & Operations Analytics](https://github.com/sernaefrain/hotel-parking-revenue-allocation)** <br> SQL • Python • Power BI <br><br> • Developed an analytics pipeline for a parking operation with 1,000+ spaces. <br> • Transformed transaction-level data into reporting-ready SQL views. <br> • Built Power BI reporting to analyze revenue and operating performance. <br> • Analyzed year-over-year revenue growth exceeding 20%. | [![Parking Revenue Dashboard](Insert png Picture)](https://github.com/sernaefrain/hotel-parking-revenue-allocation) |
 |**[Financial Statement Automation](LINK)** <br> Python • Power Automate • Excel <br><br> • Automated financial statement management for 50+ accounts. <br> • Reduced repetitive manual processing by 8+ hours per month. <br> • Improved reporting accuracy and process reliability. | [![Financial Statement Automation Dashboard](Insert png Picture)](LINK) |

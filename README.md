@@ -7,38 +7,6 @@ With 10 years of experience across commercial real estate, venture capital, and 
 
 I bridge business strategy and technical execution, transforming complex data into actionable insights through analytics, automation, and intuitive reporting solutions that improve efficiency and drive informed decision-making.
 
-## Featured Projects
-
-### Parking Revenue & Operations Analytics
-**SQL | Python | Power BI**
-
-- Developed an analytics pipeline for a parking operation with 1,000+ spaces.
-- Transformed transaction-level data into reporting-ready SQL views.
-- Built Power BI reporting to analyze revenue and operating performance.
-- Analyzed year-over-year revenue growth exceeding 20%.
-
-[View Project](https://github.com/sernaefrain/hotel-parking-revenue-allocation)
-
-[![Parking Revenue Dashboard]()](https://github.com/sernaefrain/hotel-parking-revenue-allocation)
-
-### Financial Statement Automation
-**Python | Power Automate | Excel**
-
-- Automated financial statement management for 50+ accounts.
-- Reduced repetitive manual processing by 8+ hours per month.
-- Improved reporting accuracy and process reliability.
-
-[View Project]()
-
-### Venture Capital Portfolio Analytics
-**SQL | Power BI | Financial Analytics**
-
-- Consolidated investment reporting across VC funds and direct startup holdings.
-- Developed portfolio performance metrics and investment tracking.
-- Designed reporting for realized and unrealized performance.
-
-[View Project]()
-
 ## Technical Skills
 
 **Data & Analytics:** SQL, MySQL, Python, Excel
@@ -48,6 +16,15 @@ I bridge business strategy and technical execution, transforming complex data in
 **Automation:** Python, Power Automate
 
 **Business:** Financial Analysis, Investment Reporting, KPI Development, Process Improvement
+
+## Featured Projects
+
+| Project | Dashboard Preview |
+|---|---|
+| **[Parking Revenue & Operations Analytics](https://github.com/sernaefrain/hotel-parking-revenue-allocation)** <br> SQL • Python • Power BI <br><br> • Developed an analytics pipeline for a parking operation with 1,000+ spaces. <br> • Transformed transaction-level data into reporting-ready SQL views. <br> • Built Power BI reporting to analyze revenue and operating performance. <br> • Analyzed year-over-year revenue growth exceeding 20%. | [![Parking Revenue Dashboard](Insert png Picture)](https://github.com/sernaefrain/hotel-parking-revenue-allocation) |
+|**[Financial Statement Automation](LINK)** <br> Python • Power Automate • Excel <br><br> • Automated financial statement management for 50+ accounts. <br> • Reduced repetitive manual processing by 8+ hours per month. <br> • Improved reporting accuracy and process reliability. | [![Financial Statement Automation Dashboard](Insert png Picture)](LINK) |
+| **[Venture Capital Portfolio Analytics](LINK)** <br> SQL • Power BI • Financial Analytics <br><br> • Consolidated investment reporting across VC funds and direct startup holdings. <br> • Developed portfolio performance metrics and investment tracking. <br> • Designed reporting for realized and unrealized performance. | [![Venture Capital Dashboard](Insert png Picture)](LINK) |
+
 
 ## Let's Connect
 
